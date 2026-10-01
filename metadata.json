@@ -1,0 +1,6 @@
+{
+  "name": "MathNotables-Lab: Simulador y Calculadora de Cocientes Notables",
+  "description": "Simulador interactivo y calculadora pedagógica paso a paso de álgebra de Cocientes Notables con desglose formal en LaTeX, análisis de validez, cálculo de término Tk y modo práctica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
